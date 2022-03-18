@@ -1214,3 +1214,19 @@ animation: slideContent .2s linear .4s backwards;
         -o-transform: rotate(45deg);
         transform: rotate(45deg);
       }
+
+      #a:link {
+        color: #b10e4d;
+        background-color: rgb(247, 214, 240);
+        text-decoration: none;
+      }
+      #a:visited {
+        color: #b10e4d;
+        background-color: transparent;
+        text-decoration: none;
+      }
+      #a:hover {
+        color: #b10e4d;
+        background-color: transparent;
+        text-decoration: underline;
+      }
