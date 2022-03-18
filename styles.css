@@ -674,9 +674,9 @@ footer {
     text-align: center;
     padding: 8px;
     margin-top: 0px;
-    background-color: rgb(209,208,209);
+    background-color: white;
     color: black;
-    border-top: 1px dotted gray;
+    border-top: none;
   }
  
 /* Cenník */
